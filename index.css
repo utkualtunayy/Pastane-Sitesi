@@ -1,0 +1,240 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: #fff4f8;
+}
+
+.ustbar {
+    border: 2px solid #f5c2d8;
+    background-color: #ffe8f0;
+    border-radius: 15px;
+    height: 10%;
+    display: flex;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.ustbar h1 {
+    margin-left: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: #7a4055;
+}
+
+.ustyazı {
+    font-family: 'Poppins', sans-serif;
+    color: #7a4055;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0px auto;
+    text-decoration: none;
+}
+
+.ustyazı a {
+    font-family: 'Poppins', sans-serif;
+    color: #7a4055;
+    margin: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.ustyazı a:hover {
+    color: #c67896;
+    scale: 1.5;
+}
+
+.resimm {
+    position: relative;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.resim {
+    margin-top: 10px;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+    border-radius: 16px;
+}
+
+.iç {
+    text-align: center;
+    color: white;
+}
+
+.ry {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    display: inline-block;
+    margin: 10px;
+    background-color: #fff3f8;
+    padding: 10px 25px;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 15px;
+    color: #5a3f4d;
+}
+
+ul {
+    list-style: none;
+}
+
+
+.vitrin {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 300px;
+}
+
+.kart {
+    margin-left: 20px;
+    width: 300px;
+    background: #fff7fb;
+    border: 1px solid #f1d7e2;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.kart-img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.kart-bilgi {
+    padding: 15px;
+    text-align: center;
+}
+
+.cardb {
+    margin: 0;
+    font-size: 22px;
+    color: #5b3a4a;
+}
+
+.carda {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #7d6373;
+}
+
+/* altbar */
+
+
+.altbar {
+    margin-top: 30px;
+    font-family: cursive;
+    justify-content: space-around;
+    display: flex;
+    color: #5a3f4d;
+    border-radius: 15px;
+    border: 2px solid #f5c2d8;
+    border-radius: 16px;
+    background-color: #fff0e5;
+    width: 100%;
+    height: 225px;
+}
+
+.altyazı {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+iframe {
+    margin-bottom: 15px;
+    border-radius: 15px;
+    border: #c89fae solid 5px;
+    box-sizing: border-box;
+}
+
+iframe:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+a {
+    text-decoration: none;
+    color: #5a3f4d;
+}
+
+.altbar p {
+    margin: 10px;
+    font-size: 15px;
+}
+
+.a {
+    display: block;
+    float: left;
+    margin-left: 40px;
+}
+
+.git {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.bilgi {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.kural {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.yazı1:hover {
+    cursor: pointer;
+    color: #c67892;
+}
+
+.yazı2:hover {
+    cursor: pointer;
+    color: #c67892;
+}
+
+.yazı3 a:hover {
+    cursor: pointer;
+    color: #c67892;
+}
+
+.yazı4 a:hover {
+    cursor: pointer;
+    color: #c67892;
+}
+
+.yazı5:hover {
+    cursor: pointer;
+    color: #c67892;
+}
+
+.yazı6:hover {
+    cursor: pointer;
+    color: #c67892;
+}
