@@ -1,6 +1,9 @@
 # Pastane-Sitesi
 Pastane sitesi Anasayfa Ürünler Sepet bölümleri olmak üzere 3 bölümden oluşmaktadır.  <br> <br>
 
+canlıda görmek için <br>
+https://kardelen-pastane.netlify.app/
+
 Ürünler bölümündeki cardların başlıklarını ve fiyatları değiştirmedim ve aynı şekilde anasayfadaki cardların açıklamasını değiştirmedim kusura bakmayın onları yakında düzelticem. <br> <br>
 <img width="1920" height="1080" alt="Bir" src="https://github.com/user-attachments/assets/dd34c8c8-c19e-4552-b0b1-2c1db31a6062" /> <br>
 <img width="1920" height="1080" alt="İki" src="https://github.com/user-attachments/assets/0c57f4ce-7a28-4ba6-ba25-9d69e92ce979" /> <br> 
